@@ -32,7 +32,7 @@
     "react-select": "^5.7.3",
     "react-use-intercom": "^5.1.4",
     "react-window": "1.8.9",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "zod": "^3.21.4"
   },
   "devDependencies": {
